@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4nd0x00 😁
+- 👋 Hi, I’m @4nd0x00
 - 👀 I’m interested in computer science, electronic and ethical hacking
 - 🌱 I’m currently learning electronic engineering
 - 💞️ I’m looking to collaborate on project involving technology with real world impact
